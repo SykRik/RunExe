@@ -2,33 +2,33 @@
     "Items": [
         {
             "id": 1,
-            "text": "Phần mềm 3D mô phỏng: Cấu trúc phân tử của các dạng hữu cơ",
-            "imageName": "appicn_phantuhuuco",
-            "exeName": "organic-molecules.exe"
+            "text": "Cấu tạo nguyên tử",
+            "imageName": "appicn_rutherford_bohr",
+            "exeName": "Mô hình nguyên tử của Rutherford- Bohr.exe"
         },
         {
             "id": 2,
-            "text": "Phần mềm 3D mo phỏng: Mô hình nguyên tử của Rutherford-Bohr",
-            "imageName": "appicn_rutherford_bohr",
-            "exeName": "excretory-system.exe"
+            "text": "Liên kết hóa học",
+            "imageName": "appicn_donchathopchat",
+            "exeName": "Mô hình một số mẫu đơn chất và hợp chất.exe"
         },
         {
             "id": 3,
-            "text": "Phần mềm 3D mo6 phỏng: Mô hình một số mẫu đơn chất và hợp chất",
-            "imageName": "appicn_donchathopchat",
-            "exeName": "simple_compound.exe"
+            "text": "Cấu trúc phân tử của các hợp chất hữu cơ",
+            "imageName": "appicn_phanthuuhuco",
+            "exeName": "Cấu trúc phân tử của các hợp chất hữu cơ.exe"
         },
         {
             "id": 4,
-            "text": "Phần mềm 3D mô phỏng: Cấu tạo của pin điện và bình điện phân",
+            "text": "Cấu tạo của pin điện và bình điện phân",
             "imageName": "appicn_binhdienphan",
-            "exeName": "ProjectOptics.exe"
+            "exeName": "Cấu tạo của pin điện và bình điện phân.exe"
         },
         {
             "id": 5,
-            "text": "Phan62 mềm 3D mô phỏng: Sự chuyển hóa của tinh bột trong cơ thể, sự tạo thành tinh bột trong cây xanh test test test",
+            "text": "Sự chuyển hóa của tinh bột trong cơ thể, sự tạo thành tinh bột trong cây xanh",
             "imageName": "appicn_tinhbot",
-            "exeName": "ProjectOptics_2.exe"
+            "exeName": "Sự hình thành và chuyển hóa tinh bột.exe"
         }
     ]
 }

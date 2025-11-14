@@ -1,6 +1,6 @@
 id,text,image_name,exe_name
-1,Phần mềm 3D mô phỏng: Cấu trúc phân tử của các dạng hữu cơ,appicn_phantuhuuco,organic-molecules.exe
-2,Phần mềm 3D mo phỏng: Mô hình nguyên tử của Rutherford-Bohr,appicn_rutherford_bohr,excretory-system.exe
-3,Phần mềm 3D mo6 phỏng: Mô hình một số mẫu đơn chất và hợp chất,appicn_donchathopchat,simple_compound.exe
-4,Phần mềm 3D mô phỏng: Cấu tạo của pin điện và bình điện phân,appicn_binhdienphan,ProjectOptics.exe
-5,"Phan62 mềm 3D mô phỏng: Sự chuyển hóa của tinh bột trong cơ thể, sự tạo thành tinh bột trong cây xanh test test test",appicn_tinhbot,ProjectOptics_2.exe
+1,Cấu tạo nguyên tử,appicn_rutherford_bohr,Mô hình nguyên tử của Rutherford- Bohr.exe
+2,Liên kết hóa học,appicn_donchathopchat,Mô hình một số mẫu đơn chất và hợp chất.exe
+3,Cấu trúc phân tử của các hợp chất hữu cơ,appicn_phanthuuhuco,Cấu trúc phân tử của các hợp chất hữu cơ.exe
+4,Cấu tạo của pin điện và bình điện phân,appicn_binhdienphan,Cấu tạo của pin điện và bình điện phân.exe
+5,"Sự chuyển hóa của tinh bột trong cơ thể, sự tạo thành tinh bột trong cây xanh",appicn_tinhbot,Sự hình thành và chuyển hóa tinh bột.exe
